@@ -1,4 +1,4 @@
-# Image Manipulation with Error Handling
+Dee# Image Manipulation with Error Handling
 
 This project focuses on image manipulation, offering a comprehensive set of tasks that include importing images, resizing them, creating masks, and applying those masks, all while ensuring robust error handling.
 
@@ -21,4 +21,4 @@ Please follow these instructions to use this project:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/priyamsekra10/face-masking.git
